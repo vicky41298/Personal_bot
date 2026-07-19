@@ -1,6 +1,6 @@
 import knowledge from '@/data/knowledge.json'
 import profileData from '@/data/profile.json'
-import type { AiKnowledge, Profile } from '@/types'
+import type { AiKnowledge } from '@/types'
 
 /**
  * AI service layer
