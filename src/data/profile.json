@@ -1,0 +1,218 @@
+{
+  "name": "Vignesh",
+  "fullName": "Vignesh Sathyanarayanan",
+  "role": "Senior Analyst",
+  "specialty": "Generative AI",
+  "company": "Dun & Bradstreet",
+  "meta": {
+    "siteTitle": "Vignesh — Generative AI",
+    "description": "Talk to an AI that knows Vignesh's work, career, projects, and vision."
+  },
+  "nav": [
+    { "label": "About", "href": "#about" },
+    { "label": "Work", "href": "#work" },
+    { "label": "Projects", "href": "#projects" },
+    { "label": "Focus", "href": "#focus" },
+    { "label": "Vision", "href": "#vision" },
+    { "label": "Open AI Chat", "href": "/", "primary": true, "route": true }
+  ],
+  "hero": {
+    "eyebrow": "Generative AI • Enterprise Systems",
+    "lines": ["I build AI systems", "that create", "business value."],
+    "highlight": "business value",
+    "subhead": "Building enterprise AI products,\nAI agents and automation\nthat solve real business problems.",
+    "intro": "Hi, I'm Vignesh.",
+    "ctas": {
+      "explore": "Explore My Journey",
+      "askAi": "Open AI Chat"
+    }
+  },
+  "about": {
+    "heading": "About Me",
+    "summary": "I design and ship enterprise Generative AI systems — from RAG pipelines and LLM applications to agentic automation. The focus is always the same: reliable systems that create measurable business value.",
+    "stats": [
+      { "value": "6.0+", "label": "Years Experience" },
+      { "value": "3.0+", "label": "Years in GenAI" },
+      { "value": "10+", "label": "Projects" },
+      {"value": "100+", "label": "Coffee Cups"}
+    ]
+  },
+  "experience": {
+    "heading": "Career Journey",
+    "roles": [
+      {
+        "company": "TCS",
+        "title": "Systems Engineer"
+      },
+      {
+        "company": "Infosys",
+        "title": "Technology Analyst"
+      },
+      {
+        "company": "Dun & Bradstreet",
+        "title": "Senior Analyst, Generative AI"
+      }
+    ]
+  },
+  "mission": {
+    "heading": "Current Mission",
+    "title": "Building Enterprise GenAI\nat Dun & Bradstreet",
+    "description": "Designing production AI systems that turn enterprise data into decisions — securely, reliably, and at scale.",
+    "pipeline": [
+      {
+        "id": "docgen",
+        "label": "Docgen",
+        "status": "Completed"
+      },
+      {
+        "id": "codegen",
+        "label": "Codegen — Prompt enhancement (Limited support)",
+        "status": "Completed"
+      },
+      {
+        "id": "crush",
+        "label": "CRUSH report",
+        "status": "Completed"
+      },
+      {
+        "id": "industrial",
+        "label": "Industrial report",
+        "status": "On going"
+      }
+    ]
+  },
+  "projects": {
+    "heading": "Projects",
+    "subheading": "Selected work shaping enterprise AI outcomes.",
+    "items": [
+      {
+        "id": "docgen",
+        "title": "DocGen",
+        "description": "A reusable GenAI platform that utilizes modular templates to automate the generation of structured, standardized, and high-quality technical documentation from model code.",
+        "technologies": ["GenAI", "LLMs", "Python"],
+        "points": [
+          "Enhance Template-Driven Documentation Capabilities: Integration of predefined templates and dynamic content population.",
+          "Improve Documentation Accuracy & Coverage: Accurate mapping of code components to template sections.",
+          "Optimize Performance & Scalability: Faster document generation and enhanced backend orchestration.",
+          "Enable Reusability: Standardize template framework and build modular APIs."
+        ]
+      },
+      {
+        "id": "code-refactor",
+        "title": "Code Refactor",
+        "description": "Robust AI-powered framework that automatically transforms monolithic notebooks into modular, reusable, and production-ready code.",
+        "technologies": ["AI", "Python", "Orchestration"],
+        "points": [
+          "Redevelop End-to-End Refactoring Framework: Notebook ingestion and automated workflow orchestration.",
+          "Improve Refactoring Accuracy & Reliability: Prompt optimization and reduction of functional errors.",
+          "Ensure Production Readiness: Containerized architecture and asynchronous processing."
+        ]
+      },
+      {
+        "id": "crush-report",
+        "title": "Hoovers CRUSH Report Automation",
+        "description": "Scalable AI-driven system that autonomously generates standardized company intelligence reports for Hoovers, enabling accurate updates for ~1,000 companies.",
+        "technologies": ["Databricks", "LLMs", "Data Pipelines"],
+        "points": [
+          "Enhance Data Ingestion & Processing Framework: Databricks-based processing.",
+          "Expand Data Enrichment & Intelligence Capabilities: Implement SEC 10-K path resolver.",
+          "Ensure Report Generation Accuracy: Validate data integrity and improve reliability.",
+          "Enable Scalable Weekly/Monthly Publishing: Seamless generation for approximately 1,000 companies."
+        ]
+      },
+      {
+        "id": "industrial-report",
+        "title": "Industrial Report Automation",
+        "description": "AI-driven Industry Report Automation Platform that transforms manually created Hoovers reports into a scalable automated system.",
+        "technologies": ["AI", "Data Integration", "LLMs"],
+        "points": [
+          "Build End-to-End Report Automation Framework: Automate generation from multiple data sources.",
+          "Enhance Content Quality & Standardization: LLM-driven summarization with reusable templates.",
+          "Enable Scalable Data Integration: Automate extraction of key signals.",
+          "Ensure Production Readiness: Incremental updates and monitoring."
+        ]
+      }
+    ]
+  },
+  "excites": {
+    "heading": "What Excites Me",
+    "subheading": "Where attention goes when the work gets interesting.",
+    "topics": [
+      {
+        "id": "agents",
+        "title": "AI Agents",
+        "description": "Systems that reason, plan, and act with reliable autonomy.",
+        "icon": "bot"
+      },
+      {
+        "id": "enterprise",
+        "title": "Enterprise AI",
+        "description": "AI that earns trust in regulated, high-stakes environments.",
+        "icon": "building"
+      },
+      {
+        "id": "platforms",
+        "title": "AI Platforms",
+        "description": "Foundations that help teams ship AI products faster.",
+        "icon": "layers"
+      },
+      {
+        "id": "automation",
+        "title": "Automation",
+        "description": "Removing friction from knowledge work with intelligent workflows.",
+        "icon": "zap"
+      },
+      {
+        "id": "multi-agent",
+        "title": "Multi-Agent Systems",
+        "description": "Coordinated agents collaborating on complex outcomes.",
+        "icon": "network"
+      },
+      {
+        "id": "products",
+        "title": "AI Products",
+        "description": "Experiences where AI is the product — clear and useful.",
+        "icon": "sparkles"
+      }
+    ]
+  },
+  "vision": {
+    "heading": "Vision",
+    "content": "Become a System Architect who designs and builds enterprise AI platforms used globally — secure, scalable, and deeply useful.",
+    "emphasis": "Architecting Generative AI from experiments into robust enterprise infrastructure."
+  },
+  "contact": {
+    "heading": "Let's Connect.",
+    "links": [
+      {
+        "label": "LinkedIn",
+        "href": "https://www.linkedin.com/in/vignesh-s-93265b14b",
+        "icon": "linkedin"
+      },
+      {
+        "label": "GitHub",
+        "href": "https://github.com/vicky41298",
+        "icon": "github"
+      },
+      {
+        "label": "Email",
+        "href": "mailto:vicky41298@gmail.com",
+        "icon": "mail"
+      }
+    ]
+  },
+  "ai": {
+    "heading": "Meet Vignesh AI",
+    "subtitle": "Instead of reading about me,\ntalk to an AI that knows everything about my work,\ncareer, projects and vision.",
+    "placeholder": "Ask me anything about Vignesh...",
+    "exploreLabel": "Want to know more?",
+    "exploreCta": "Explore my interactive profile →",
+    "suggestedQuestions": [
+      "What are you currently building?",
+      "Tell me about your journey",
+      "What excites you?",
+      "What projects are you proud of?",
+      "Where do you want to grow?"
+    ]
+  }
+}

@@ -1,0 +1,109 @@
+{
+  "persona": {
+    "name": "Vignesh AI",
+    "tone": "Clear, confident, and concise — like a senior engineer explaining their work. Friendly but not casual. Prefer short paragraphs and occasional bullet lists.",
+    "greeting": "Hi — I'm Vignesh's AI assistant. Ask me about his career, projects, skills, or where he's headed."
+  },
+  "fallback": "As a mock AI assistant running locally, I currently rely on simple keyword matching and cannot fully resolve complex semantic meanings. Please try asking using keywords about Vignesh's career, current work (DocGen, enterprise AI, RAG), technologies, or future goals.",
+  "responses": [
+    {
+      "id": "working-on",
+      "triggers": [
+        "working on",
+        "currently building",
+        "current work",
+        "what are you working",
+        "what am i building",
+        "building",
+        "projects",
+        "proud of",
+        "docgen",
+        "codegen",
+        "crush",
+        "industrial"
+      ]
+    },
+    {
+      "id": "career",
+      "triggers": [
+        "career",
+        "journey",
+        "experience",
+        "background",
+        "timeline",
+        "tcs",
+        "infosys",
+        "dun",
+        "bradstreet",
+        "d&b",
+        "dnb"
+      ]
+    },
+    {
+      "id": "technologies",
+      "triggers": [
+        "technologies",
+        "technologies i use",
+        "tech stack",
+        "skills",
+        "tools",
+        "languages",
+        "frameworks",
+        "what do you use",
+        "stack"
+      ]
+    },
+    {
+      "id": "goals",
+      "triggers": [
+        "future",
+        "goals",
+        "vision",
+        "grow",
+        "aspire",
+        "where do you want",
+        "ambition"
+      ]
+    },
+    {
+      "id": "about",
+      "triggers": [
+        "who are you",
+        "about you",
+        "about vignesh",
+        "introduce",
+        "tell me about yourself",
+        "who is"
+      ]
+    },
+    {
+      "id": "excites",
+      "triggers": [
+        "excites",
+        "excite you",
+        "what excites",
+        "passionate"
+      ]
+    },
+    {
+      "id": "agents",
+      "triggers": [
+        "agent",
+        "agentic",
+        "multi-agent",
+        "automation",
+        "orchestrat"
+      ]
+    },
+    {
+      "id": "rag",
+      "triggers": [
+        "rag",
+        "retrieval",
+        "knowledge",
+        "vector",
+        "embedding"
+      ]
+    }
+  ]
+}
